@@ -1,2 +1,2 @@
 # tutudude-python
-Assignments 
+All Assignments 
